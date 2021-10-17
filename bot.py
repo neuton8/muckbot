@@ -2,7 +2,7 @@ import os
 from typing import final
 import discord
 from random import choice
-TOKEN = 'ODk2NzY3NTExOTgxMzU1MDQ4.YWL50w.kVmDrUytTyB9ioHA4nWI_EayIcY'
+TOKEN = **
 
 FRASES = ['comassim, não entendi','familia?','voce ta puto?','me ajuda macho','vou tomar banho','bila','pota','bilola','morri :c','ah nao mah']
 intents = discord.Intents.default()
